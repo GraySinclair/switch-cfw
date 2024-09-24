@@ -1,0 +1,1 @@
+[{"tag_name":"v2.1.0","name":"BeanNX Stick Checker Split (v2.1.0)","body":"Preparations for BeanNX Stick Checker.\r\nRemoved stick position checking\r\nSwitched from + and - to exit to just +\r\n","assets":[{"size":294558,"browser_download_url":"https://github.com/TransKat/bean-controller-checker/releases/download/v2.1.0/bean-controller-checker.nro"}]}]

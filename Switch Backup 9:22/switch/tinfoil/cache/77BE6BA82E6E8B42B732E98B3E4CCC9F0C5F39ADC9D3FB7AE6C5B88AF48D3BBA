@@ -1,0 +1,1 @@
+[{"tag_name":"v0.1.0","name":"v0.1.0","body":"# Added\r\n\r\n- CORS headers to allow web browsers to work with sys-http\r\n- `/settings/language` to get the console language\r\n\r\n# Updated\r\n\r\n- `/readHeap` is now `/heap`","assets":[{"size":394034,"browser_download_url":"https://github.com/zaksabeast/sys-http/releases/download/v0.1.0/sys-http.zip"}]}]

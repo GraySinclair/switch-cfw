@@ -1,0 +1,1 @@
+[{"tag_name":"v3.8","name":"pPlay v3.8","body":"- ps4: correctly fix some clock/sync problems (previous fix was running all videos at 60 fps, they now correctly sync at video fps as on other platforms)","assets":[{"size":36132906,"browser_download_url":"https://github.com/Cpasjuste/pplay/releases/download/v3.8/pplay-3.8_ps4.zip"}]}]

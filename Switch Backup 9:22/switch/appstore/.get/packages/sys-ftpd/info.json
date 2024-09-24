@@ -1,0 +1,11 @@
+{
+	"title": "sys-ftpd",
+	"author": "jakibaki",
+	"category": "advanced",
+	"version": "not listed",
+	"description": "Ftpd as a sysmodule",
+	"details": "This is a nintendo-switch sysmodule which runs a ftpd-server in the background (on port 5000 with no auth).",
+	"url": "https://github.com/jakibaki/sys-ftpd/releases",
+	"license": "GPL 3.0",
+	"changelog": "n/a"
+}

@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: qt-range-slider
+Version: 0.2.7
+Summary: Qt widget-slider with two thumbs (min/max values)
+Home-page: https://github.com/introkun/qt-range-slider
+Author: Sergey G
+Author-email: introkun@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 3 - Alpha
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyqt5
+
+# qt-range-slider ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/introkun/qt-range-slider) [![Build Status](https://github.com/introkun/qt-range-slider/workflows/CI/badge.svg)](https://github.com/introkun/qt-range-slider/actions?query=workflow%3ACI) [![Coverage Status](https://coveralls.io/repos/github/introkun/qt-range-slider/badge.svg?branch=main&dummy=unused)](https://coveralls.io/github/introkun/qt-range-slider?branch=main) [![GitHub license](https://img.shields.io/github/license/introkun/qt-range-slider.svg)](https://github.com/introkun/qt-range-slider/blob/main/LICENSE) [![PyPi Downloads](https://img.shields.io/pypi/dm/qt-range-slider)](https://pypi.org/project/qt-range-slider/)
+
+# Demo
+<img src="https://github.com/introkun/qt-range-slider/blob/main/assets/demo.png?raw=true" alt="Demo of qt-range-slider" style="width: 640px;"/>
+
+

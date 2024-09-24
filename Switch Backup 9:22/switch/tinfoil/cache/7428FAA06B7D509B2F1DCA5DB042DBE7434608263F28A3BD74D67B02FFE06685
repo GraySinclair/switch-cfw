@@ -1,0 +1,1 @@
+[{"tag_name":"v1.1.3","name":"ShareNX-Overlay Release v1.1.3","body":"- Recompiled with latest libtesla and libnx\r\n  - Reduces fs session usage","assets":[{"size":1200184,"browser_download_url":"https://github.com/HookedBehemoth/ShareNX-Overlay/releases/download/v1.1.3/ovlShareNX.ovl"}]}]

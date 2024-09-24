@@ -1,0 +1,1 @@
+[{"tag_name":"0.1.8-beta","name":"0.1.8-beta","body":"* Implemented NAND browsing (see mount command). Big thanks to @friedkeenan for the contribution.","assets":[{"size":541752,"browser_download_url":"https://github.com/Cesura/nxsh/releases/download/0.1.8-beta/nxsh.kip"}]}]

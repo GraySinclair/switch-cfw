@@ -1,0 +1,1 @@
+[{"tag_name":"v2.6.5-1","name":"v2.6.5-1","body":"Refactor gamepad rumble handling.\r\nIf you had troubles with non-working rumble on previous release - try this one.","assets":[{"size":14255296,"browser_download_url":"https://github.com/nxengine/nxengine-evo/releases/download/v2.6.5-1/NXEngine-Evo-v2.6.5-1-Linux-x86_64.AppImage"}]}]

@@ -1,0 +1,1 @@
+[{"tag_name":"2.3","name":"MAME-NX (Based on MAME 0.72) Release 2.3","body":"Sorry it took so long!\r\n\r\nChanges:\r\n- Updated to latest libnx. \r\n- Joystick is now enabled by default","assets":[{"size":11448397,"browser_download_url":"https://github.com/lantus/mame-nx/releases/download/2.3/mame-nx_r2.3.zip"}]}]

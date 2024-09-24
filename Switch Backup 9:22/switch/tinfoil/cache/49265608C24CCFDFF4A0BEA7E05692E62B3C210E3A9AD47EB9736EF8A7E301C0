@@ -1,0 +1,1 @@
+[{"tag_name":"nx_0.2.3","name":"0.2.3","body":"### Fixed\r\n- Replace non ASCII characters in filenames.\r\n- udp trackers working.","assets":[{"size":1197656,"browser_download_url":"https://github.com/t-flo/nxTransmission/releases/download/nx_0.2.3/nxTransmission-0.2.3.zip"}]}]

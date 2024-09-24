@@ -1,0 +1,1 @@
+[{"tag_name":"v3.5.1","name":"v3.5.1","body":"* Fixed temperature display on [14.0.0+]. \r\n* Updated various (currently unused) language text.\r\n* Built with libnx stable v4.2.1.","assets":[{"size":832662,"browser_download_url":"https://github.com/switchbrew/nx-hbmenu/releases/download/v3.5.1/nx-hbmenu_v3.5.1.zip"}]}]

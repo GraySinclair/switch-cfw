@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pycryptoplus
+Version: 0.0.1
+Summary: pycryptodome (PyCrypto) Cipher extension. Modified to work with pycryptodome.
+Home-page: https://github.com/voytecPL/pycryptoplus
+Author: Christophe Oosterlynck. Modified and published by Wojciech Jakubas <wojciech.jakubas@gmail.com>
+Author-email: tiftof@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: pycryptodome
+
+UNKNOWN
+
+

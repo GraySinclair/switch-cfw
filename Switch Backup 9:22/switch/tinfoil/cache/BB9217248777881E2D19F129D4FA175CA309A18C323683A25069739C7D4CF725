@@ -1,0 +1,1 @@
+[{"tag_name":"3.1.2","name":"ReverseNX-Tool 3.1.2","body":"Add memory overflow safety for Applet mode (in case of too much games detected it will ignore showing icons).","assets":[{"size":7354718,"browser_download_url":"https://github.com/masagrator/ReverseNX-Tool/releases/download/3.1.2/ReverseNX-Tool.nro"}]}]

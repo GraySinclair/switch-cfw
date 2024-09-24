@@ -1,0 +1,1 @@
+[{"tag_name":"v2.0.1","name":"Calculator_NX 2.0.1","body":"Bug fixes in 2.0.1:\r\n\r\n- Removed the user having to manually exit out of the app after an update has been downloaded\r\n- Fixed versioning in overlay","assets":[{"size":3072658,"browser_download_url":"https://github.com/EmreTech/Calculator_NX/releases/download/v2.0.1/Calculator_NX.nro"}]}]

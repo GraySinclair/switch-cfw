@@ -1,0 +1,1 @@
+[{"tag_name":"v2.4.0","name":"Support for firmware up to 15.0.x","body":"Backlight control is disabled and will do nothing on 14.0+","assets":[{"size":1446835,"browser_download_url":"https://github.com/averne/Fizeau/releases/download/v2.4.0/Fizeau-2.4.0-4b55d12.zip"}]}]

@@ -1,0 +1,6 @@
+U: ftpd/pauseon.mp3
+U: ftpd/connect.mp3
+U: ftpd/pauseoff.mp3
+U: ftpd/disconnect.mp3
+U: bootloader/ini/FTP_Server.ini
+U: modules/sysftpd/sys-ftpd.kip
