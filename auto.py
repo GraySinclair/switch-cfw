@@ -4,8 +4,8 @@ import subprocess
 
 # Change these variables -------------------------------
 commit_year = 2025
-commit_month = 1
-commit_day = 31
+commit_month = 2
+commit_day = 1
 
 # Generate random values for hour, minute, second, and microsecond
 random_hour = random.randint(7, 22)  # Random hour (0 to 23)
